@@ -70,8 +70,9 @@
 *.md linguist-generated=false
 *.md linguist-documentation=false
 *.md linguist-detectable=true
+*.sql linguist-detectable=true
 # Reclassify `.md` files as Python:
-*.md linguist-language=Python
+*.md linguist-language=SQL
 
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
